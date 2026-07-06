@@ -1,0 +1,20 @@
+/* * {
+    margin: 0;
+    padding: 0;
+} */
+
+#container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 400px;
+    background-color: #101010;
+}
+
+#container div {
+    height: 370px;
+    width: 335px;
+    background: #108cff;
+    margin: 60px;
+    text-align: center;
+}
